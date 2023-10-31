@@ -10,7 +10,7 @@ A marketing agency website meets accessibility standards for search engine optim
 
 
 ## Requirements
-![image]https://commons.wikimedia.org/wiki/File:CSS3_and_HTML5_logos_and_wordmarks.svg [Alt Css HTML logos](https://upload.wikimedia.org/wikipedia/commons/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg) 
+![image][Alt Css HTML logos](https://upload.wikimedia.org/wikipedia/commons/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg) https://commons.wikimedia.org/wiki/File:CSS3_and_HTML5_logos_and_wordmarks.svg 
 
 ## Installation
 Clone the repo
